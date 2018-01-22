@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  color: black;
+  background-color: white;
+}
+
+header {
+  color: #black;
+  padding:5px
+  position:fixed
+  width: 100%
+  z-index: 2
+  margin-bottom: 10px;
+}
+ h1{
+  display:block;
+
+ul {
+  color: black;
+}
+
+
+}
+
+.Navigation {
+  font-family: Verdana;
+  font-color: black;
+  text-align: center;
+  margin-top: 10px;
+  display: inline-block;
+  width: 100%;
+  text-decoration: none;
+
+
+}
