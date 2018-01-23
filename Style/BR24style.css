@@ -82,15 +82,21 @@ iframe{
   justify-content: space-between;
 }
 
-.Bilder {
-
+video{
+  width: 560px;
+  margin: 50px;
+  border: 7px solid #C3C3C3;
+  overflow: hidden;
+  padding: 10px;
   display: inline-flex;
   flex-direction:row;
-  float:left;
   justify-content: space-between;
 }
 
-.kontrovers {
-  widht: auto;
-  height: auto;
+#links {
+  float:left;
+}
+
+#rechts {
+  float: right;
 }
